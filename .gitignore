@@ -3,3 +3,5 @@ examples
 js
 test
 .DS_Store
+packge-lock.json
+package.json
