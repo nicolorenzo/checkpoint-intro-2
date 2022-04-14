@@ -1,6 +1,8 @@
 # Introdução à Informática
 
-Este projeto se refere à disciplina de **Introdução à Informática** do curso Certified Tech Developer na **Digital House Brasil**.
+Este projeto se refere à disciplina de **Introdução à Informática** do curso Certified Tech Developer na **Digital House Brasil**.  
+
+**[Você pode visualizar a apresentação aqui](https://nicolorenzo.github.io/checkpoint-intro-2)**.
 
 Assuntos abordados:
 - Paradigmas de programação
