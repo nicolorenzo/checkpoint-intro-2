@@ -14,4 +14,4 @@ Assuntos abordados:
 
 ---
 
-Para a realização desta apresentação utilizamos o framework [Reveal.js](https://revealjs.com/).
+Para a realização desta apresentação utilizamos a linguagem [Markdown](https://www.markdownguide.org/getting-started/), e o framework [Reveal.js](https://revealjs.com/).
